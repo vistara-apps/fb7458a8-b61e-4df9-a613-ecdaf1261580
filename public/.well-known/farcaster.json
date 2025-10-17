@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJlZHVjcmVkLmJhc2VhcHAifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "EduCred Base",
+    "iconUrl": "https://educred.baseapp/images/icon_256.png",
+    "splashImageUrl": "https://educred.baseapp/images/splash_200.png",
+    "splashBackgroundColor": "#0a1628",
+    "homeUrl": "https://educred.baseapp",
+    "webhookUrl": "https://api.educred.baseapp/webhook/farcaster"
+  }
+}
