@@ -10,7 +10,7 @@
     "iconUrl": "https://educred.baseapp/images/icon_256.png",
     "splashImageUrl": "https://educred.baseapp/images/splash_200.png",
     "splashBackgroundColor": "#0a1628",
-    "homeUrl": "https://educred.baseapp",
-    "webhookUrl": "https://api.educred.baseapp/webhook/farcaster"
+    "homeUrl": "https://app-f1261580-xtx1.vercel.app",
+    "webhookUrl": "https://app-f1261580-xtx1.vercel.app/api/webhook"
   }
 }
